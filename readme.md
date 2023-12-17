@@ -1,6 +1,6 @@
 ## Projeto: Pousada Secreta ( https://pousada-secreta-one.vercel.app/ )
 
-Criei um site para a Pousada Secreta usando HTML e CSS. O site tem várias páginas que destacam os quartos da pousada, informações sobre a localização e detalhes sobre as acomodações. O design é elegante e informativo, destacando as imagens dos quartos e fornecendo informações essenciais aos visitantes.
+Criei um site para a Pousada Secreta usando HTML e CSS. O site tem como objetivo destacar os excelentes quartos da pousada, informar sobre a localização e detalhes sobre as acomodações. O design é elegante e informativo, destacando as imagens dos quartos e fornecendo informações essenciais aos visitantes.
 
 ### HTML e CSS:
 
@@ -11,13 +11,8 @@ CSS foi usado para estilizar o site, criando uma aparência atraente e responsiv
 #### Página Inicial:
 
 A página inicial apresenta um banner impressionante com o nome da pousada e uma breve descrição.
-Os quartos são destacados, com links para mais informações.
-
-##### Páginas de Quartos:
-
-Criei páginas para diferentes tipos de quartos (solteiro, casal e família) com descrições detalhadas e fotos.
-Usei CSS para manter uma aparência consistente em todas as páginas.
+Os quartos são destacados, com links para mais informações, usei CSS para manter uma aparência consistente.
 
 ###### Contato e Reservas:
 
-O rodapé contém informações de contato, um mapa da localização da pousada e links para fazer reservas online.
+O rodapé contém informações de contato, um mapa da localização da pousada e links para fazer a reserva de forma online.
