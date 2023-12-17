@@ -11,7 +11,6 @@
     margin: 0 auto;
   }
   
-  /* Estilização Topo */
   .topo {
     width: 100%;
     position: fixed;
@@ -53,8 +52,6 @@
     color: #3d3d3d;
   }
   
-  
-  /* Estilização do Conteúdo Principal */
   
   .banner {
     width: 100%;
@@ -138,7 +135,6 @@
   }
   
   
-  /* Estilização seção Sobre */
   .container-cards {
     max-width: 1024px;
     margin: 0 auto;
@@ -180,8 +176,7 @@
     object-fit: cover;
   }
   
-  
-  /* Estilização do rodapé */
+
   .rodape {
     background-color: #49997d;
     color:#fff;
